@@ -31,6 +31,6 @@ echo "  ██  ██ ██ ██      ██    ██ ██   ██    �
 echo "  ██   ████ ███████  ██████  ██████     ██     "
 echo ""
 echo "Welcome to \e[33mcloud shell.\e[37m"
-echo "Start with \e[36mnvim\e[37m for your awsome experience"
+echo "Start with \e[36mnvim\e[37m for your awesome experience"
 # Starship
 eval "$(starship init zsh)"
